@@ -1,0 +1,10 @@
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\bin\Debug\BancoDadosProjeto.Aplicacao.dll
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\bin\Debug\BancoDadosProjeto.Aplicacao.pdb
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\bin\Debug\BancoDados.Repositorio.dll
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\bin\Debug\BancoDadosProjeto.Dominio.dll
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\bin\Debug\BancoDados.Repositorio.pdb
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\bin\Debug\BancoDadosProjeto.Dominio.pdb
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\obj\Debug\BancoDadosProjeto.Aplicacao.csprojAssemblyReference.cache
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\obj\Debug\BancoDadosProjeto.Aplicacao.csproj.CopyComplete
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\obj\Debug\BancoDadosProjeto.Aplicacao.dll
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Aplicacao\obj\Debug\BancoDadosProjeto.Aplicacao.pdb

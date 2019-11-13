@@ -1,0 +1,5 @@
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Dominio\bin\Debug\BancoDadosProjeto.Dominio.dll
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Dominio\bin\Debug\BancoDadosProjeto.Dominio.pdb
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Dominio\obj\Debug\BancoDadosProjeto.Dominio.csprojAssemblyReference.cache
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Dominio\obj\Debug\BancoDadosProjeto.Dominio.dll
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDadosProjeto.Dominio\obj\Debug\BancoDadosProjeto.Dominio.pdb

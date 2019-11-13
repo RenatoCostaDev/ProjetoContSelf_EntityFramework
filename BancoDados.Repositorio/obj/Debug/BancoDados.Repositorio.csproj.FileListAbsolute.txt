@@ -1,0 +1,5 @@
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDados.Repositorio\bin\Debug\BancoDados.Repositorio.dll
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDados.Repositorio\bin\Debug\BancoDados.Repositorio.pdb
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDados.Repositorio\obj\Debug\BancoDados.Repositorio.csprojAssemblyReference.cache
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDados.Repositorio\obj\Debug\BancoDados.Repositorio.dll
+C:\Users\Renato\Desktop\aspNetEx\BDprojeto\BancoDados.Repositorio\obj\Debug\BancoDados.Repositorio.pdb

@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\ConexaoBD\\DOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDados.Repositorio\\BancoDados.Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDados.Repositorio\\BancoDados.Repositorio.csproj",
+        "projectName": "BancoDados.Repositorio",
+        "projectPath": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDados.Repositorio\\BancoDados.Repositorio.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Aplicacao\\BancoDadosProjeto.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Aplicacao\\BancoDadosProjeto.Aplicacao.csproj",
+        "projectName": "BancoDadosProjeto.Aplicacao",
+        "projectPath": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Aplicacao\\BancoDadosProjeto.Aplicacao.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDados.Repositorio\\BancoDados.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDados.Repositorio\\BancoDados.Repositorio.csproj"
+              },
+              "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Dominio\\BancoDadosProjeto.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Dominio\\BancoDadosProjeto.Dominio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Dominio\\BancoDadosProjeto.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Dominio\\BancoDadosProjeto.Dominio.csproj",
+        "projectName": "BancoDadosProjeto.Dominio",
+        "projectPath": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Dominio\\BancoDadosProjeto.Dominio.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\ConexaoBD\\DOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\ConexaoBD\\DOS.csproj",
+        "projectName": "DOS",
+        "projectPath": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\ConexaoBD\\DOS.csproj",
+        "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\ConexaoBD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Aplicacao\\BancoDadosProjeto.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Aplicacao\\BancoDadosProjeto.Aplicacao.csproj"
+              },
+              "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Dominio\\BancoDadosProjeto.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Renato\\Desktop\\aspNetEx\\BDprojeto\\BancoDadosProjeto.Dominio\\BancoDadosProjeto.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
